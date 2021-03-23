@@ -41,6 +41,9 @@ Year | University
 -----|-----------
 2008 - 2014 | National Aviation University, Kyiv
 2018 - 2020 | Horyzont, Wrocław
+
+##### English:
+* 5 years of work on Boeing projects including business trips to the USA
     
 
 
