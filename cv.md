@@ -3,7 +3,7 @@
 #### iarotskyi@gmail.com; 787 517 920
 Student of RS school, skillful and motivated.
 
-#####Set of Skills:
+##### Set of Skills:
 * Front-end:
     * Html/CSS (advanced);
         * Gulp;
@@ -34,7 +34,7 @@ Student of RS school, skillful and motivated.
 [CodeWars](https://www.codewars.com/users/Valero)
 
 ##### Experience:
-RS school projects & University course projects
+* RS school projects & University course projects
 
 ##### Education:
 
