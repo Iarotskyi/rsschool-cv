@@ -33,6 +33,8 @@ Student of RS school, skillful and motivated.
 
 [CodeWars](https://www.codewars.com/users/Valero)
 
+##### Experience:
+RS school projects & University course projects
 
     
 
