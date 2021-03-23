@@ -1,2 +1,1 @@
-# rsschool-cv
-Markdown &amp; Git
+https://iarotskyi.github.io/rsschool-cv/cv
