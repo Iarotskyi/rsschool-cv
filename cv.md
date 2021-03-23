@@ -3,7 +3,7 @@
 #### iarotskyi@gmail.com; 787 517 920
 Student of RS school, skillful and motivated.
 
-Set of Skills:
+#####Set of Skills:
 * Front-end:
     * Html/CSS (advanced);
         * Gulp;
@@ -27,6 +27,13 @@ Set of Skills:
     * UML;
     * Matlab;
     * GDevelop;
+    
+##### Code Examples:
+[GitHub](https://github.com/Iarotskyi)
+
+[CodeWars](https://www.codewars.com/users/Valero)
+
+
     
 
 
