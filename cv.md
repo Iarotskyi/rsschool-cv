@@ -36,6 +36,11 @@ Student of RS school, skillful and motivated.
 ##### Experience:
 RS school projects & University course projects
 
+##### Education:
+Year | University
+-----|-----------
+2008 - 2014 | National Aviation University, Kyiv
+2018 - 2020 | Horyzont, Wrocław
     
 
 
